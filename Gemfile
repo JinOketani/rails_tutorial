@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'rails', '~> 5.1.6'
+gem 'bootstrap-sass'
 gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'sass-rails', '~> 5.0'
@@ -29,9 +30,11 @@ group :test do
   gem 'capybara', '~> 2.13'
   gem 'guard'
   gem 'guard-minitest'
+  gem 'rails-controller-testing'
 end
 
 group :development do
+  gem 'better_errors'
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '>= 3.0.5', '< 3.2'
   gem 'spring'
