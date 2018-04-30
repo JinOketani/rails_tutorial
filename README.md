@@ -13,3 +13,7 @@ https://railstutorial.jp/
 - [7章：ユーザー登録](https://github.com/JinOketani/rails_tutorial/tree/chapter7)
 - [8章：基本的なログイン機構](https://github.com/JinOketani/rails_tutorial/tree/chapter8)
 - [9章：発展的なログイン機構](https://github.com/JinOketani/rails_tutorial/tree/chapter9)
+- [10章：ユーザーの更新・表示・削除](https://github.com/JinOketani/rails_tutorial/tree/chapter10)
+- [11章：アカウントの有効化](https://github.com/JinOketani/rails_tutorial/tree/chapter11)
+- [12章：パスワードの再設定](https://github.com/JinOketani/rails_tutorial/tree/chapter12)
+- [13章：ユーザーのマイクロポスト](https://github.com/JinOketani/rails_tutorial/tree/chapter13)
