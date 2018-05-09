@@ -5,7 +5,7 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'rails', '~> 5.1.6'
+gem 'rails', '~> 5.2.0'
 gem 'bcrypt'
 gem 'faker', '1.7.3'
 gem 'will_paginate', '3.1.6'
@@ -19,6 +19,9 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
+gem 'carrierwave', '1.2.2'
+gem 'mini_magick', '4.7.0'
+
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
