@@ -17,3 +17,4 @@ https://railstutorial.jp/
 - [11章：アカウントの有効化](https://github.com/JinOketani/rails_tutorial/tree/chapter11)
 - [12章：パスワードの再設定](https://github.com/JinOketani/rails_tutorial/tree/chapter12)
 - [13章：ユーザーのマイクロポスト](https://github.com/JinOketani/rails_tutorial/tree/chapter13)
+- [14章：ユーザーをフォローする](https://github.com/JinOketani/rails_tutorial/tree/chapter14)
